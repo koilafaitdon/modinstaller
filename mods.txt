@@ -4,3 +4,6 @@ https://cdn.modrinth.com/data/CuAOZEBw/versions/KR3IY1Zh/WariumVS%200.1.0.jar
 https://cdn.modrinth.com/data/qS1ot7R2/versions/bng5THLF/VMod-Forge-1.20.1-1.7.1.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar
 https://cdn.modrinth.com/data/Cd3DYqzn/versions/1HOp9idN/superbwarfare-1.20.1-0.8.7.1-6b9d8bd8a.jar
+https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar
+https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar
+https://cdn.modrinth.com/data/g96Z4WVZ/versions/BKvbnpID/BadOptimizations-2.3.1-1.20.1.jar
