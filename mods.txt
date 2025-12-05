@@ -20,3 +20,4 @@ https://cdn.modrinth.com/data/fmudhH0S/versions/dVAGdLiv/createpropulsion-0.2.2a
 https://cdn.modrinth.com/data/XxWD5pD3/versions/7KVs6HMQ/appliedenergistics2-forge-15.4.10.jar
 https://cdn.modrinth.com/data/pNabrMMw/versions/z8QXeyI0/ae2wtlib-15.3.3-forge.jar
 https://cdn.modrinth.com/data/USgVjXsk/versions/OIrDvVJc/tfmg-1.0.2e.jar
+https://cdn.modrinth.com/data/Ck4E7v7R/versions/9YGnKYDF/guideme-20.1.14.jar
