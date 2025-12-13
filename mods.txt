@@ -23,3 +23,12 @@ https://cdn.modrinth.com/data/Ck4E7v7R/versions/9YGnKYDF/guideme-20.1.14.jar
 https://cdn.modrinth.com/data/qelfSMnn/versions/v8c3El4q/ae2insertexportcard-1.20.1-1.3.0.jar
 https://cdn.modrinth.com/data/K7VSm2YY/versions/YWeJBhEc/ae2qolrecipes-forge-1.18-1.20.1-1.3.0.jar
 https://cdn.modrinth.com/data/bRa1UAVZ/versions/DHWqG6SF/webdisplays-2.0.2-1.20.1.jar
+https://cdn.modrinth.com/data/FXDpZRJG/versions/9gmywyjq/trackwork-1.20.1-1.1.2c6.jar
+https://cdn.modrinth.com/data/bRa1UAVZ/versions/DHWqG6SF/webdisplays-2.0.2-1.20.1.jar
+https://cdn.modrinth.com/data/LyOBYG8Q/versions/CxHSm4q6/escalated-1.2.0%2Bcreate.6.0.8-mc.1.20.1-forge.jar
+https://cdn.modrinth.com/data/FXDpZRJG/versions/9gmywyjq/trackwork-1.20.1-1.1.2c6.jar
+https://cdn.discordapp.com/attachments/1261982031236173927/1449427799671570453/expandedae-1.3.3.jar?ex=693edc54&is=693d8ad4&hm=2782b7db719442a9824fa6f4ef4c33daf54fa50295763d91c8fe04ecb192599c&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449427800066101419/AEInfinityBooster-1.20.1-1.0.051.jar?ex=693edc54&is=693d8ad4&hm=c0159da6239b03bd0e726b1f4bf74a6eedaaaf12e5f67447275315002f51648d&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449427800447520809/AE2MEGAThings-1.20.1-1.0.8.jar?ex=693edc54&is=693d8ad4&hm=d837425a5c7ed4393cf18add2afadb9f46190cdb0b1adbf70bdd32ac118c456e&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449427800967610470/AE2NetworkAnalyzer-1.20-1.0.6-forge.jar?ex=693edc54&is=693d8ad4&hm=3271528c1a4eac28462d282d01eabaab85a88ce5eb059c32765c01021e598e17&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449427801370267758/ae2ct-1.20.1-1.1.1.jar?ex=693edc54&is=693d8ad4&hm=9b14e43b2771c87381a6651e2b40c494fda54a8ddb028db8304d6e85eb04072a&
