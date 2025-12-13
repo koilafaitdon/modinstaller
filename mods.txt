@@ -25,11 +25,12 @@ https://cdn.modrinth.com/data/K7VSm2YY/versions/YWeJBhEc/ae2qolrecipes-forge-1.1
 https://cdn.modrinth.com/data/bRa1UAVZ/versions/DHWqG6SF/webdisplays-2.0.2-1.20.1.jar
 https://cdn.modrinth.com/data/FXDpZRJG/versions/9gmywyjq/trackwork-1.20.1-1.1.2c6.jar
 https://cdn.modrinth.com/data/LyOBYG8Q/versions/CxHSm4q6/escalated-1.2.0%2Bcreate.6.0.8-mc.1.20.1-forge.jar
-https://cdn.modrinth.com/data/FXDpZRJG/versions/9gmywyjq/trackwork-1.20.1-1.1.2c6.jar
 https://cdn.discordapp.com/attachments/1261982031236173927/1449427799671570453/expandedae-1.3.3.jar?ex=693edc54&is=693d8ad4&hm=2782b7db719442a9824fa6f4ef4c33daf54fa50295763d91c8fe04ecb192599c&
 https://cdn.discordapp.com/attachments/1261982031236173927/1449427800066101419/AEInfinityBooster-1.20.1-1.0.051.jar?ex=693edc54&is=693d8ad4&hm=c0159da6239b03bd0e726b1f4bf74a6eedaaaf12e5f67447275315002f51648d&
 https://cdn.discordapp.com/attachments/1261982031236173927/1449427800447520809/AE2MEGAThings-1.20.1-1.0.8.jar?ex=693edc54&is=693d8ad4&hm=d837425a5c7ed4393cf18add2afadb9f46190cdb0b1adbf70bdd32ac118c456e&
 https://cdn.discordapp.com/attachments/1261982031236173927/1449427800967610470/AE2NetworkAnalyzer-1.20-1.0.6-forge.jar?ex=693edc54&is=693d8ad4&hm=3271528c1a4eac28462d282d01eabaab85a88ce5eb059c32765c01021e598e17&
 https://cdn.discordapp.com/attachments/1261982031236173927/1449427801370267758/ae2ct-1.20.1-1.1.1.jar?ex=693edc54&is=693d8ad4&hm=9b14e43b2771c87381a6651e2b40c494fda54a8ddb028db8304d6e85eb04072a&
-https://cdn.modrinth.com/data/ZzjhlDgM/versions/ubktvkSZ/Steam_Rails-1.6.14-beta%2Bforge-mc1.20.1.jar
-https://cdn.discordapp.com/attachments/1261982031236173927/1449429228755091486/create_bb-1.0.6-1.20.1-forge.jar?ex=693edda9&is=693d8c29&hm=b8e3c413ed19a5fe5c9d8e3839b539908e0d640810e71910e600f86ac20135aa&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449432115010863165/AE2-Things-1.2.1.jar?ex=693ee059&is=693d8ed9&hm=7cc0a3af304c3572bc7f421b5e927b7d749d2f35fa9072159c77e55d8fb2b25d&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449437168299671614/Glodium-1.20-1.5-forge.jar?ex=693ee50e&is=693d938e&hm=5a450ea803e1dea1d58672f36011bd30a96eb4c7f3a8220eadabbf49a6af5226&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449438095010173022/mcef-forge-2.1.6-1.20.1.jar?ex=693ee5eb&is=693d946b&hm=eb0461d6e9495ab10d969680aa8422ef8a244662561dc6814bbeb1a34f54d763&
+https://cdn.discordapp.com/attachments/1261982031236173927/1449438339949138082/megacells-forge-2.4.5-1.20.1.jar?ex=693ee625&is=693d94a5&hm=66a17ef50555d734bcf3844176f834cc98d7271c565d6fe728a471fab7cd7a52&
