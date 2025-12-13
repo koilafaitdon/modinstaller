@@ -24,7 +24,6 @@ https://cdn.modrinth.com/data/qelfSMnn/versions/v8c3El4q/ae2insertexportcard-1.2
 https://cdn.modrinth.com/data/K7VSm2YY/versions/YWeJBhEc/ae2qolrecipes-forge-1.18-1.20.1-1.3.0.jar
 https://cdn.modrinth.com/data/bRa1UAVZ/versions/DHWqG6SF/webdisplays-2.0.2-1.20.1.jar
 https://cdn.modrinth.com/data/FXDpZRJG/versions/9gmywyjq/trackwork-1.20.1-1.1.2c6.jar
-https://cdn.modrinth.com/data/bRa1UAVZ/versions/DHWqG6SF/webdisplays-2.0.2-1.20.1.jar
 https://cdn.modrinth.com/data/LyOBYG8Q/versions/CxHSm4q6/escalated-1.2.0%2Bcreate.6.0.8-mc.1.20.1-forge.jar
 https://cdn.modrinth.com/data/FXDpZRJG/versions/9gmywyjq/trackwork-1.20.1-1.1.2c6.jar
 https://cdn.discordapp.com/attachments/1261982031236173927/1449427799671570453/expandedae-1.3.3.jar?ex=693edc54&is=693d8ad4&hm=2782b7db719442a9824fa6f4ef4c33daf54fa50295763d91c8fe04ecb192599c&
