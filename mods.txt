@@ -18,3 +18,4 @@ https://cdn.modrinth.com/data/V1UmcEMX/versions/lEFffQqd/vlib-1.20.1-0.1.1%2Bfor
 https://cdn.modrinth.com/data/qS1ot7R2/versions/RlsWa2L4/VMod-Forge-1.20.1-1.9.0.jar
 https://cdn.modrinth.com/data/voOBl6iP/versions/QK0pHWZ5/vstuff-0.2.4-fix2%2B015de0da8f.jar
 https://cdn.modrinth.com/data/xgjvEen1/versions/P9Ca10aq/Warium%201.2.5.jar
+https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar
