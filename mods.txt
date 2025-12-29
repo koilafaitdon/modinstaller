@@ -25,3 +25,4 @@ https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.
 https://cdn.modrinth.com/data/NcUtCpym/versions/ATTRzxT3/XaerosWorldMap_1.39.12_Forge_1.20.jar
 https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar
 https://cdn.modrinth.com/data/hl5OLM95/versions/FdVH8Irc/Geophilic%20v3.4.5.mod.jar
+https://cdn.modrinth.com/data/Xh8hkQmD/versions/6MiqZPSM/betterbiomereblend-1.5.3.jar
